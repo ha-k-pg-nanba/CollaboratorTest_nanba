@@ -139,11 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Collabo.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="nanba.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="nanba.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Collabo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
