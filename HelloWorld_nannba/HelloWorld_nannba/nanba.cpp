@@ -1,7 +1,7 @@
 #include"nanba.h"
 #include<stdio.h>
 
-void ShowName()
+void nanba::ShowName()
 {
 	printf("“ï”g‘ñ‘\n");
 }
