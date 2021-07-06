@@ -1,0 +1,2 @@
+# CollaboratorTest_nanba
+コラボレーター機能のテスト用
