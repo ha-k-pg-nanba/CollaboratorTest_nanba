@@ -21,9 +21,15 @@
     <ClCompile Include="Collabo.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\HelloWorld_nannba\HelloWorld_nannba\nanba.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Collabo.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\HelloWorld_nannba\HelloWorld_nannba\nanba.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
   </ItemGroup>

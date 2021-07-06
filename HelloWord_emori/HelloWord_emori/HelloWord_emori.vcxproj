@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\HelloWorld_nannba\HelloWorld_nannba\nanba.cpp" />
     <ClCompile Include="Collabo.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\HelloWorld_nannba\HelloWorld_nannba\nanba.h" />
     <ClInclude Include="Collabo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
