@@ -4,4 +4,5 @@
 void nanba::ShowName()
 {
 	printf("“ï”g‘ñ‘\n");
+	printf("‚¨‚Í\n");
 }
